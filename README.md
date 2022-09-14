@@ -1,5 +1,5 @@
 # NLW-eSports
-Projeto desenvolvido com base no evento da Rocketseat, Utilizando HTML e CSS.
+Projeto desenvolvido com base no evento da Rocketseat.
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 * HTML
