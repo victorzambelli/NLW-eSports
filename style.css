@@ -27,6 +27,11 @@ header {
     border-style: solid;
     border: 4px solid transparent;
     background: linear-gradient(white, white) padding-box, linear-gradient(90deg, #9572fc 0%, #43e7ad 50.52%, #e2d45c 100%) border-box;
+    transition: transform .3s;
+}
+
+.profileImage:hover {
+    transform: scale(1.1);
 }
 
 main {
@@ -56,6 +61,14 @@ section ul {
     gap: 16px;
     margin-top: 24px;
     flex-wrap: wrap;
+}
+
+section ul li {
+    transition: transform .3s;
+}
+
+section ul li:hover {
+    transform: scale(1.1);
 }
 
 section h2 {
