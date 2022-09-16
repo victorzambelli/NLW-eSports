@@ -15,4 +15,5 @@ Esse projeto foi utilizado fonte externa através do:
 
 ## 💻 Projeto
 ![preview](./preview.png/)
+[Clique aqui para acessar](https://nlw-esports-six.vercel.app/)
 > **Objetivo:** Criar um encurtador com links de jogos, streamers, redes sociais.
