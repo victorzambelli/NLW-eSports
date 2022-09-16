@@ -1,15 +1,18 @@
 # NLW-eSports
-Projeto desenvolvido com base no evento da Rocketseat.
+Projeto desenvolvido com base no evento Next Level Week da Rocketseat .
 
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
-* HTML
-* CSS
+- HTML
+- CSS
+- Git e Github
 
 ## 📚 Bibliotecas:
-* [Google Fonts](https://fonts.google.com/)
+
+Esse projeto foi utilizado fonte externa através do:
+- [Google Fonts](https://fonts.google.com/)
 
 ## 💻 Projeto
-* https://prnt.sc/FP0iRoxZTC1F
+![preview](./preview.png/)
 > **Objetivo:** Criar um encurtador com links de jogos, streamers, redes sociais.
