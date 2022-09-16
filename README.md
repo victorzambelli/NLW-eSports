@@ -1,5 +1,5 @@
 # NLW-eSports
-Projeto desenvolvido com base no evento Next Level Week da Rocketseat .
+Projeto desenvolvido com base no evento Next Level Week da Rocketseat.
 
 ## 🚀 Tecnologias
 
