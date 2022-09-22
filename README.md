@@ -1,19 +1,16 @@
 # NLW-eSports
-Projeto desenvolvido com base no evento Next Level Week da Rocketseat.
+Project developed based on Rocketseat's Next Level Week event.
 
-## 🚀 Tecnologias
-
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+## 🚀 Technologies
+This project was developed with the following technologies:
 - HTML
 - CSS
 - Git e Github
 
-## 📚 Bibliotecas:
-
-Esse projeto foi utilizado fonte externa através do:
+## 📚 Libraries
 - [Google Fonts](https://fonts.google.com/)
 
-## 💻 Projeto
+## 💻 Project
 ![preview](./preview.png/)
-[Clique aqui para acessar](https://nlw-esports-six.vercel.app/)
-> **Objetivo:** Criar um encurtador com links de jogos, streamers, redes sociais.
+[Click here to access project](https://nlw-esports-six.vercel.app/)
+> **Objective:** Create a shortener with links from games, streamers, social networks.
