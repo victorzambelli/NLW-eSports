@@ -11,6 +11,6 @@ This project was developed with the following technologies:
 - [Google Fonts](https://fonts.google.com/)
 
 ## 💻 Project
-![preview](./preview.png/)
+![preview](preview.png/)
 [Click here to access project](https://nlw-esports-six.vercel.app/)
 > **Objective:** Create a shortener with links from games, streamers, social networks.
